@@ -1,0 +1,16 @@
+Document Type: Policy
+Title: Comprehensive Auto Insurance Policy
+Policy Number: AUTO-123456
+Coverage:
+- Collision: Covers damages to your car from collisions.
+- Comprehensive: Covers theft, fire, and natural disasters.
+- Liability: Covers injury or damage to others.
+Exclusions:
+- Intentional damage
+- Racing incidents
+- Unlicensed drivers
+Claims Process:
+- Report incident within 48 hours.
+- Submit claim form and supporting documents.
+- Inspection and approval within 7 business days.
+Contact: claims@insureco.com | 1-800-555-1234

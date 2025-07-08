@@ -1,0 +1,14 @@
+clearDocument Type: Claim
+Title: Health Insurance Claim - Hospitalization
+Claim Number: HLTH-987654
+Policy Holder: John Doe
+Date of Admission: 2025-06-10
+Hospital: City General Hospital
+Diagnosis: Acute Appendicitis
+Claimed Amount: $7,500
+Status: Completed
+Required Documents:
+- Hospital bills
+- Discharge summary
+- Doctor’s prescription
+Contact: healthclaims@insureco.com | 1-800-555-5678
